@@ -7,5 +7,6 @@ To run the this application:
 **Dev: npm run start:dev**
 
 **Prod: npm run start:prod**
+
 5. Open a browser and go to **http://localhost:3000**
-5 TO run test run: **npm run test**
+6. To run test run: **npm run test**
