@@ -1,0 +1,1 @@
+This project is to make CRUD REST APIs in NodeJS with Express Framework using Typescript
